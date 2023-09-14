@@ -18,6 +18,7 @@
     "parcel": "^2.2.1"
   },
   "dependencies": {
-    "fracty": "^1.0.9"
+    "fracty": "^1.0.9",
+    "regenerator-runtime": "^0.14.0"
   }
 }
