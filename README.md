@@ -41,8 +41,9 @@ Install NPM packages
 npm install
 ```
 
-```bash
 Enter your API in config.js
+
+```bash
 const KEY = 'ENTER YOUR API';
 ```
 
