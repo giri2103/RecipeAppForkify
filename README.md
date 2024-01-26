@@ -21,13 +21,23 @@ Start with the latest version of NPM to avoid any errors:
 ```bash
 npm
 npm install npm@latest -g
+```
+
 Also install additional dependencies
+```bash
  npm i --save core-js regenerator-runtime
+```
+
 Installation
 Get a free API Key at Forkify API_KEY
 Clone the repo
+
+```bash
 git clone https://github.com/catherineisonline/forkify
+```
 Install NPM packages
+
+```bash
 npm install
 Enter your API in config.js
 const KEY = 'ENTER YOUR API';
