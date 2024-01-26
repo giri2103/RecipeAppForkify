@@ -39,9 +39,13 @@ Install NPM packages
 
 ```bash
 npm install
+```
+
+```bash
 Enter your API in config.js
 const KEY = 'ENTER YOUR API';
 ```
+
 ## Usage
 
 - The Forkify Recipe App allows users to search for recipes.
